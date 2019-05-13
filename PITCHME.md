@@ -4,15 +4,15 @@
 
 ## Agenda
 
-* Channel management
-* Conversation management
-* Notification management
-* Post management
+* Channels
+* Conversations
+* Notifications
+* Posts
 * Special Commands & Integrations
 
 ---
 
-# Channel management
+# Channels
 
 ---
 
@@ -38,7 +38,7 @@ _Announcements vs General vs Instagram vs Standup_
 
 ---
 
-# Conversation management
+# Conversations
 
 ---
 
@@ -56,7 +56,7 @@ OR: When not to use Slack
 
 ---
 
-# Notification management
+# Notifications
 
 - notifications
 - muting
@@ -64,7 +64,7 @@ OR: When not to use Slack
 
 --- 
 
-# Post management
+# Posts
 - Editing
 - Quoting
 - Starring
