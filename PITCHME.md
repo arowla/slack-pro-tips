@@ -91,9 +91,19 @@ Most of your comms should go in channels.
 --- 
 
 # Posts
-- Editing
-- Quoting
-- Starring
+- Editing ⬆️
+- Formatting
+  - Quoting
+- `:emoji:`
+- Reacting
+    `+:100:`
+
+Note:
+Hit up 
+
+---
+
+## Saving a Post ⭐️
 
 ---
 
@@ -105,7 +115,7 @@ Most of your comms should go in channels.
 
 ---
 
-## Reminders
+## Reminders ⏰
 
 ---
 
