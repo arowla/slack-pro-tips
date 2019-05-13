@@ -69,7 +69,7 @@ OR: When not to use Slack
 
 ---
 
-# Special Commands & Integrations
+# Slack Magic @fa[magic]
 
 ---
 
@@ -89,6 +89,10 @@ OR: When not to use Slack
 - GDrive
 
 ---
+
+## Keyboard Shortcuts
+
+
 
 http://github.com/arowla/slack-pro-tips
 
