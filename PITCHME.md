@@ -32,8 +32,6 @@ _Announcements vs General vs Instagram vs Standup_
 
 ---
 
-## When people are in the wrong channel
-
 ![](assets/img/Raccoon.jpg)
 
 ---
