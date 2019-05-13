@@ -12,7 +12,7 @@
 
 ---
 
-# Channels
+# Channels 📺
 
 ---
 
@@ -24,7 +24,7 @@ Private channels can't be made public. So default to public unless really necess
 
 ---
 
-## Projects vs Interests
+## Projects vs Interests 💭
 
 Note:
 
@@ -32,11 +32,11 @@ Specific vs. cross-cutting.
 
 ---
 
-## Channel Topics
+## Channel Topics ✏️
 
 ---
 
-## Pinning Messages
+## Pinning Messages 📌
 
 (vs Starring Messages)
 
@@ -47,7 +47,7 @@ Sort of an FAQ for visitors old and new.
 
 ---
 
-## What channel to use when
+## What channel to use when 🦝
 
 _Announcements vs General vs Instagram vs Standup_
 
@@ -57,15 +57,15 @@ _Announcements vs General vs Instagram vs Standup_
 
 ---
 
-# Conversations
+# Conversations 💬
 
 ---
 
-## Threading
+## Threading 🧵
 
 ---
 
-## Scope
+## Scope 📣
 
 - In-channel comms
 - Private messages (DMs)
@@ -79,27 +79,30 @@ Most of your comms should go in channels.
 
 ---
 
-# Notifications
+# Notifications ❗️
 
 - notifications
 - muting
+- @channel/@here
 
 ---
 
-# Status
+# Status ❇️
 
 --- 
 
 # Posts
 - Editing ⬆️
+- Deleting
 - Formatting
-  - Quoting
+  - `*Bold*`
+  - `_Italic_`
+  - `~Strikethrough~`
+  - `> Quotes`
+- Snippets
 - `:emoji:`
 - Reacting
     `+:100:`
-
-Note:
-Hit up 
 
 ---
 
@@ -119,7 +122,11 @@ Hit up
 
 ---
 
-## Integrations
+## Personal DMs 👂 / Slackbot 🤖
+
+---
+
+## Integrations ⚙️
 
 - Giphy
 - Github
