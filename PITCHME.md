@@ -1,48 +1,97 @@
-# Let's Get Started
+# Slack Pro Tips
 
 ---
 
-## Add Some Slide Candy
+## Agenda
 
-![](assets/img/presentation.png)
+* Channel management
+* Conversation management
+* Notification management
+* Post management
+* Special Commands & Integrations
 
 ---
-@title[Customize Slide Layout]
 
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
+# Channel management
 
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
+---
 
----?color=#E58537
-@title[Add A Little Imagination]
+## Projects vs Interests
 
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
+---
 
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
+## Pinning Messages
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
+(vs Starring Messages)
 
----?image=assets/img/presenter.jpg
+---
 
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
+## What channel to use when
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+_Announcements vs General vs Instagram vs Standup_
+
+---
+
+## When people are in the wrong channel
+
+![](assets/img/Raccoon.jpg)
+
+---
+
+# Conversation management
+
+---
+
+## Threading
+
+---
+
+## When to use:
+
+- In-channel comms
+- Private messages (DMs)
+- Group DMs
+
+OR: When not to use Slack
+
+---
+
+# Notification management
+
+- notifications
+- muting
+- setting your status
+
+--- 
+
+# Post management
+- Editing
+- Quoting
+- Starring
+
+---
+
+# Special Commands & Integrations
+
+---
+
+## / Commands
+
+---
+
+## Reminders
+
+---
+
+## Integrations
+
+- Giphy
+- Github
+- Trello
+- GDrive
+
+---
+
+http://github.com/arowla/slack-pro-tips
+
+---
