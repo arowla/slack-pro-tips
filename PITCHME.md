@@ -16,13 +16,34 @@
 
 ---
 
+## Private vs Public
+
+Note:
+
+Private channels can't be made public. So default to public unless really necessary.
+
+---
+
 ## Projects vs Interests
+
+Note:
+
+Specific vs. cross-cutting.
+
+---
+
+## Channel Topics
 
 ---
 
 ## Pinning Messages
 
 (vs Starring Messages)
+
+Note:
+
+Pinning messages makes them available under a shortcut for everyone who visits a channel.
+Sort of an FAQ for visitors old and new.
 
 ---
 
@@ -44,7 +65,7 @@ _Announcements vs General vs Instagram vs Standup_
 
 ---
 
-## When to use:
+## Scope
 
 - In-channel comms
 - Private messages (DMs)
@@ -52,13 +73,20 @@ _Announcements vs General vs Instagram vs Standup_
 
 OR: When not to use Slack
 
+Note:
+
+Most of your comms should go in channels.
+
 ---
 
 # Notifications
 
 - notifications
 - muting
-- setting your status
+
+---
+
+# Status
 
 --- 
 
@@ -90,9 +118,12 @@ OR: When not to use Slack
 
 ---
 
+# ⌘ + /
 ## Keyboard Shortcuts
 
+![](assets/img/kb-menu.png)
 
+---
 
 http://github.com/arowla/slack-pro-tips
 
